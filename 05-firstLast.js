@@ -1,7 +1,7 @@
-let test1 = [1,2,5,8];
-let test2 = [5,5,8];
+let test1 = [1, 2, 5, 8];
+let test2 = [5, 5, 8];
 
-function firstLast(array){
+function firstLast(array) {
     let newArray = [];
 
     newArray[0] = array[0];

@@ -18,3 +18,12 @@ Returns true if the (array) contains the (number), otherwise returns false.
 
 05-firstLast.js:
 Returns the first and last element of the (array) in a new array.
+
+06-differenceMinMax.js:
+Takes an array of numbers and returns the difference between the biggest and the smallest number.
+
+07-totalSum.js:
+Returns the sum of the numbers. Ex.: number=3, output will be: 6 because 1+2+3
+
+08-reverseArray.js:
+Reverses the contents of the array and returns it as a new array.
