@@ -1,7 +1,7 @@
-let test1 = [1,2,5,8];
-let test2 = ["Lee","Bruce"];
+let test1 = [1, 2, 5, 8];
+let test2 = ["Lee", "Bruce"];
 
-function reverseArray(array){
+function reverseArray(array) {
     let newArray = [];
     let counter = 0;
     for (let i = array.length; i >= 0; i--) {
